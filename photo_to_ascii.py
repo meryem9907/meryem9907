@@ -25,8 +25,7 @@ from rembg import remove
 SRC = sys.argv[1] if len(sys.argv) > 1 else "me.jpeg"
 COLS = 96
 ASPECT = 1.72        # svg line-height / char-width
-BUST = 0.80
-
+BUST = 0.72
 DETAIL = 2.3
 WEIGHT = 0.45
 RAMP = "@%#*+=-:. "  # darkest -> lightest
