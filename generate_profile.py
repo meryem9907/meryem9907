@@ -42,6 +42,8 @@ INFO = [
     ("Backend",  "FastAPI · Flask · Node.js · Spring Framework ·  REST · Docker", "val"),
     ("AI",       "Open Source LLMs · RAG", "val"),
     ("Data",     "PostgreSQL · Redis · Celery · Server Sent Events", "val"),
+    ("XR/Mixed Reality",     "MRTK3 · Unity · Hololens 2", "val"),
+     ("Test Frameworks",     "JUnit · Selenium · postman · Insomnia · Mockoon · curl", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
     ("Home4Strays",     "Matchmaking web app for caretakers and stray animals", "warn"),

@@ -91,7 +91,7 @@
 <text x="30" y="522.0" class="art artline" xml:space="preserve" textLength="366.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.93s">     :-:=*###%.=-:==+++--+%*-:---:::---=---:----  +*+++==--=%*=+=+**+=++=++##*++==++++====+++-</text>
 <text x="30" y="528.7" class="art artline" xml:space="preserve" textLength="366.6" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.94s">     =+==+*++#---:=-++=--+%*-:---::----=---:---: .**+++=--=##+=++++*+=++=++##+===++++====++++=</text>
 <text x="30" y="535.4" class="art artline" xml:space="preserve" textLength="370.5" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.95s">   : =+==-==+%*::.=-+*+:-*@*-----::---==------:. -***+=+--#%+++++++++=++==+%#+==++===+++++*++-+</text>
-<text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">meryem ünüvar bakirci</text>
+<text x="448" y="92.0" class="hdr row" style="animation-delay:0.35s">Meryem Ünüvar Bakirci</text>
 <line x1="448" y1="101.5" x2="940" y2="101.5" stroke="#30363d" class="row" style="animation-delay:0.42s"/>
 <text x="448" y="117.5" class="key row" style="animation-delay:0.49s">Role</text>
 <text x="540" y="117.5" class="val row" style="animation-delay:0.49s">Full Stack Software Engineer &amp; AI Engineer</text>
@@ -110,24 +110,28 @@
 <text x="540" y="250.0" class="val row" style="animation-delay:0.98s">Open Source LLMs · RAG</text>
 <text x="448" y="267.5" class="key row" style="animation-delay:1.05s">Data</text>
 <text x="540" y="267.5" class="val row" style="animation-delay:1.05s">PostgreSQL · Redis · Celery · Server Sent Events</text>
-<text x="448" y="295.0" class="sec row" style="animation-delay:1.12s">~/projects</text>
-<text x="448" y="312.5" class="key row" style="animation-delay:1.19s">Home4Strays</text>
-<text x="540" y="312.5" class="wrn row" style="animation-delay:1.19s">Matchmaking web app for caretakers and stray animals</text>
-<text x="448" y="330.0" class="key row" style="animation-delay:1.26s">ChaChaLens</text>
-<text x="540" y="330.0" class="wrn row" style="animation-delay:1.26s">VLM driven speech assistant for visually disabled on Hololens 2</text>
-<text x="448" y="357.5" class="sec row" style="animation-delay:1.33s">~/highlights</text>
-<text x="448" y="375.0" class="key row" style="animation-delay:1.40s">Award</text>
-<text x="540" y="375.0" class="val row" style="animation-delay:1.40s">Home4Strays as 2nd best project at University of Applied Sciences in Augsburg</text>
-<text x="448" y="392.5" class="row" style="animation-delay:1.47s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 16   ·   stars 0   ·   followers 1</tspan></text>
-<text x="448" y="420.0" class="sec row" style="animation-delay:1.54s">~/reach</text>
-<text x="448" y="437.5" class="key row" style="animation-delay:1.61s">Web</text>
-<text x="540" y="437.5" class="acc row" style="animation-delay:1.61s">https://github.com/meryem9907</text>
-<text x="448" y="455.0" class="key row" style="animation-delay:1.68s">Portfolio</text>
-<text x="540" y="455.0" class="acc row" style="animation-delay:1.68s">https://about-me-with-ai-chatbot.onrender.com/</text>
-<text x="448" y="472.5" class="key row" style="animation-delay:1.75s">In</text>
-<text x="540" y="472.5" class="acc row" style="animation-delay:1.75s">https://www.linkedin.com/in/meryem-%C3%BCn%C3%BCvar-cs/?locale=en</text>
-<text x="448" y="490.0" class="key row" style="animation-delay:1.82s">Mail</text>
-<text x="540" y="490.0" class="acc row" style="animation-delay:1.82s">meryem9907@gmail.com</text>
-<text x="30" y="596" class="row" style="animation-delay:1.99s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to Full Stack Engineer / AI Engineer roles as an Intern or Junior Developer</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Jul 2026, 14:22 IST</text>
+<text x="448" y="285.0" class="key row" style="animation-delay:1.12s">XR/Mixed Reality</text>
+<text x="540" y="285.0" class="val row" style="animation-delay:1.12s">MRTK3 · Unity · Hololens 2</text>
+<text x="448" y="302.5" class="key row" style="animation-delay:1.19s">Test Frameworks</text>
+<text x="540" y="302.5" class="val row" style="animation-delay:1.19s">JUnit · Selenium · postman · Insomnia · Mockoon · curl</text>
+<text x="448" y="330.0" class="sec row" style="animation-delay:1.26s">~/projects</text>
+<text x="448" y="347.5" class="key row" style="animation-delay:1.33s">Home4Strays</text>
+<text x="540" y="347.5" class="wrn row" style="animation-delay:1.33s">Matchmaking web app for caretakers and stray animals</text>
+<text x="448" y="365.0" class="key row" style="animation-delay:1.40s">ChaChaLens</text>
+<text x="540" y="365.0" class="wrn row" style="animation-delay:1.40s">VLM driven speech assistant for visually disabled on Hololens 2</text>
+<text x="448" y="392.5" class="sec row" style="animation-delay:1.47s">~/highlights</text>
+<text x="448" y="410.0" class="key row" style="animation-delay:1.54s">Award</text>
+<text x="540" y="410.0" class="val row" style="animation-delay:1.54s">Home4Strays as 2nd best project at University of Applied Sciences in Augsburg</text>
+<text x="448" y="427.5" class="row" style="animation-delay:1.61s"><tspan class="key">⚡</tspan><tspan class="val" dx="8">repos 16   ·   stars 0   ·   followers 1</tspan></text>
+<text x="448" y="455.0" class="sec row" style="animation-delay:1.68s">~/reach</text>
+<text x="448" y="472.5" class="key row" style="animation-delay:1.75s">Web</text>
+<text x="540" y="472.5" class="acc row" style="animation-delay:1.75s">https://github.com/meryem9907</text>
+<text x="448" y="490.0" class="key row" style="animation-delay:1.82s">Portfolio</text>
+<text x="540" y="490.0" class="acc row" style="animation-delay:1.82s">https://about-me-with-ai-chatbot.onrender.com/</text>
+<text x="448" y="507.5" class="key row" style="animation-delay:1.89s">In</text>
+<text x="540" y="507.5" class="acc row" style="animation-delay:1.89s">https://www.linkedin.com/in/meryem-%C3%BCn%C3%BCvar-cs/?locale=en</text>
+<text x="448" y="525.0" class="key row" style="animation-delay:1.96s">Mail</text>
+<text x="540" y="525.0" class="acc row" style="animation-delay:1.96s">meryem9907@gmail.com</text>
+<text x="30" y="596" class="row" style="animation-delay:2.13s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to Full Stack Engineer / AI Engineer roles as an Intern or Junior Developer</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 15 Jul 2026, 14:37 IST</text>
 </svg>
