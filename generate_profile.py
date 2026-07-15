@@ -30,7 +30,7 @@ def load_portrait():
 
 # (label, value, colour-key)  |  colour-key: key / val / accent / warn / muted
 INFO = [
-    ("__header__", "meryem ünüvar bakirci", ""),
+    ("__header__", "Meryem Ünüvar Bakirci", ""),
     ("__rule__", "", ""),
     ("Role",     "Full Stack Software Engineer & AI Engineer", "val"),
     ("Edu",      "Computer Science, University of Applied Sciences/Technische Hochschule Augsburg 2026", "val"),
