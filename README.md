@@ -1,4 +1,12 @@
-## Hi there 👋
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meryem9907/meryem9907/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meryem9907/meryem9907/main/light.svg">
+  <img alt="Meryem Ünüvar Bakirci — Computer Scientist & Full Stack Software Engineer & AI Engineer" src="https://raw.githubusercontent.com/meryem9907/meryem9907/main/dark.svg">
+</picture>
+
+</div>
 
 <!--
 **meryem9907/meryem9907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
